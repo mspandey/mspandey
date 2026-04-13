@@ -1,52 +1,96 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+## 🛠️ Skills
+
+<img src="https://skillicons.dev/icons?i=c" height="60" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="60" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=html" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=rust" height="60" />
+<img width="12" />
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+## 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mspandey">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/amisha-pandey-b635b5339/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 </div>
 
-###
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mspandey&theme=dracula" height="150" />
+<img src="https://github-profile-trophy.vercel.app/?username=mspandey&theme=dracula&row=1" height="150" />
+
+</div>
+
+---
+
+## 🎮 Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mspandey/mspandey/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mspandey/mspandey/output/pacman-contribution-graph.svg">
+  <img alt="pacman graph" src="https://raw.githubusercontent.com/mspandey/mspandey/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I am a passionate and detail-oriented developer with a strong interest in building efficient, scalable, and user-friendly applications. I enjoy solving real-world problems through code and continuously improving my technical skill set.
+
+I have experience working with multiple programming languages including C, Python, CSS and HTML, and I am actively expanding my knowledge in modern software and hardware development technologies.
+
+I focus on writing clean, maintainable, and optimized code while following best practices in software development. 
+
+I aim to bridge the gap between hardware and software by developing innovative IoT and robotics projects that are practical, scalable, and impactful.
+
+
+Currently, I am exploring Generative AI and aiming to build impactful projects that combine performance with great user experience.
+
+### 🚀 Key Interests
+- Genreative AI
+- AI/ML
+- LLM
+- Problem Solving & Algorithms  
+- Scalable System Design  
+- Open Source Contribution
+- Internet of Things (IoT) Systems  
+- Robotics & Automation  
+- Embedded Systems Development  
+- Sensor-based Smart Applications  
+
+### 🎯 Goal
+To grow as a software engineer and contribute to real-world projects that create meaningful impact.
