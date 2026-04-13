@@ -36,6 +36,9 @@
 <a href="https://www.rust-lang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=rust" height="60" />
 </a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" />
+</a>
 
 </p>
 
