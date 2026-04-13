@@ -4,24 +4,40 @@
 
 <div align="center">
 
+
 ## 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=c" height="60" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=html" height="60" />
-<img width="12" />
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-<img width="12" />
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" height="60" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=rust" height="60" />
-<img width="12" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+</a>
+
+<a href="https://storybook.js.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+</a>
+
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=rust" height="60" />
+</a>
+
+</p>
 
 </div>
 
