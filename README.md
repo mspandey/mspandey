@@ -21,21 +21,10 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" />
 </a>
 
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-</a>
-
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
 </a>
 
-<a href="https://storybook.js.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-</a>
-
-<a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-</a>
 <a href="https://www.arduino.cc/" target="_blank">
   <img src="https://skillicons.dev/icons?i=arduino" height="60" />
 </a>
