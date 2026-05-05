@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mspandey&theme=dracula" height="150" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mspandey&theme=dracula" height="150" />
 
 </div>
 
