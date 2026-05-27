@@ -1,9 +1,25 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+```md
+<h1 align="center">Hi 👋, I'm Amisha Pandey</h1>
+
+<h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mspandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
 <div align="center">
 
+## 🏅 Holopin Badges
+
+[![An image of @mspandey's Holopin badges](https://holopin.me/mspandey)](https://holopin.io/@mspandey)
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🛠️ Skills
 
@@ -29,6 +45,10 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="60" />
 </a>
 
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="60" />
+</a>
+
 </p>
 
 </div>
@@ -50,6 +70,7 @@
 </a>
 
 </p>
+
 </div>
 
 ---
@@ -58,7 +79,19 @@
 
 ## 📊 GitHub Stats
 
- <img src="https://github-readme-streak-stats.herokuapp.com?user=mspandey&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=mspandey&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mspandey&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspandey&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
@@ -72,32 +105,41 @@
     src="https://raw.githubusercontent.com/mspandey/mspandey/output/pacman-contribution-graph-dark.svg"
   />
 </picture>
+
 ---
 
 ## 👨‍💻 About Me
 
 I am a passionate and detail-oriented developer with a strong interest in building efficient, scalable, and user-friendly applications. I enjoy solving real-world problems through code and continuously improving my technical skill set.
 
-I have experience working with multiple programming languages including C, Python, CSS and HTML, and I am actively expanding my knowledge in modern software and hardware development technologies.
+I have experience working with multiple programming languages including C, Python, CSS, and HTML, and I am actively expanding my knowledge in modern software and hardware development technologies.
 
-I focus on writing clean, maintainable, and optimized code while following best practices in software development. 
+I focus on writing clean, maintainable, and optimized code while following best practices in software development.
 
 I aim to bridge the gap between hardware and software by developing innovative IoT and robotics projects that are practical, scalable, and impactful.
 
-
 Currently, I am exploring Generative AI and aiming to build impactful projects that combine performance with great user experience.
 
-### 🚀 Key Interests
-- Genreative AI
-- AI/ML
-- LLM
+---
+
+## 🚀 Key Interests
+
+- Generative AI  
+- AI/ML  
+- LLMs  
 - Problem Solving & Algorithms  
 - Scalable System Design  
-- Open Source Contribution
+- Open Source Contribution  
 - Internet of Things (IoT) Systems  
 - Robotics & Automation  
 - Embedded Systems Development  
 - Sensor-based Smart Applications  
+- Aerial Robotics  
 
-### 🎯 Goal
+---
+
+## 🎯 Goal
+
 To grow as a software engineer and contribute to real-world projects that create meaningful impact.
+```
+
