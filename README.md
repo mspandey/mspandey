@@ -83,7 +83,7 @@
 
 <picture>
   <img 
-    alt="pacman contribution graph"
+    alt="pacman contribution graph."
     src="https://raw.githubusercontent.com/mspandey/mspandey/output/pacman-contribution-graph-dark.svg"
   />
 </picture>
@@ -94,7 +94,7 @@
 
 I am a passionate and detail-oriented developer with a strong interest in building efficient, scalable, and user-friendly applications. I enjoy solving real-world problems through code and continuously improving my technical skill set.
 
-I have experience working with multiple programming languages including C, Python, CSS, and HTML, and I am actively expanding my knowledge in modern software and hardware development technologies.
+I have experience working with multiple programming languages C, Python, CSS, and HTML and I am actively expanding my knowledge in modern software and hardware development technologies.
 
 I focus on writing clean, maintainable, and optimized code while following best practices in software development.
 
@@ -116,12 +116,7 @@ Currently, I am exploring Generative AI and aiming to build impactful projects t
 - Robotics & Automation  
 - Embedded Systems Development  
 - Sensor-based Smart Applications  
-- Aerial Robotics  
+  
 
 ---
-
-## 🎯 Goal
-
-To grow as a software engineer and contribute to real-world projects that create meaningful impact.
-```
 
