@@ -7,15 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=mspandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
-
-<div align="center">
-
-## 🏅 Holopin Badges
-
-[![An image of @mspandey's Holopin badges](https://holopin.me/mspandey)](https://holopin.io/@mspandey)
-
-</div>
 
 ---
 
