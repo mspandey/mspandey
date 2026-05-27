@@ -76,15 +76,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🧠 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspandey&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
 
 ---
 
