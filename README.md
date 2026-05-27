@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amisha Pandey</h1>
 
 <h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
@@ -7,64 +6,53 @@
   <img src="https://komarev.com/ghpvc/?username=mspandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
 ## 🛠️ Skills
 
 <p align="center">
-
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-</a>
-
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" height="60" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="60" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="60" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" height="60" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="60" />
+  </a>
 </p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
 ## 🔗 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/mspandey">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/amisha-pandey-b635b5339/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://github.com/mspandey">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amisha-pandey-b635b5339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
@@ -76,8 +64,9 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
----
+<div align="center">
 
 ## 🎮 Pacman Contribution Graph
 
@@ -88,7 +77,9 @@
   />
 </picture>
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -102,7 +93,7 @@ I aim to bridge the gap between hardware and software by developing innovative I
 
 Currently, I am exploring Generative AI and aiming to build impactful projects that combine performance with great user experience.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 Key Interests
 
@@ -116,7 +107,5 @@ Currently, I am exploring Generative AI and aiming to build impactful projects t
 - Robotics & Automation  
 - Embedded Systems Development  
 - Sensor-based Smart Applications  
-  
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
