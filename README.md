@@ -10,35 +10,45 @@
 
 <div align="center">
 
-## 🛠️ Skills And Technologies 
-<h2>🚀 Technologies & Tools</h2>
+
+<h2 align="center">🎮 Tech Adventure</h2>
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="65" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" height="65" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="65" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="65" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="65" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" height="65" />
-  </a>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWX-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" />
+  
+  <img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<br>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://cdn.simpleicons.org/tinkercad" width="48" />
+
+<img src="https://skillicons.dev/icons?i=css" />
+  
+  <img src="https://skillicons.dev/icons?i=c" />
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=python" />
+  
+  <img src="https://skillicons.dev/icons?i=html" />
+  
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <br>
+  
+  <img src="https://cdn.simpleicons.org/supabase" width="48" />
+  
+  <img src="https://skillicons.dev/icons?i=ansible" />
+  <a href="https://ansible.readthedocs.io/projects/awx/en/latest/">
+ 
+
+  <img src="https://cdn.simpleicons.org/n8n" width="48" />
+  <img src="https://cdn.simpleicons.org/yaml" width="48" />
+
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🔗 Connect With Me
 
