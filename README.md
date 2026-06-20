@@ -10,34 +10,30 @@
 
 <div align="center">
 
-## 🛠️ Skills
+## 🛠️ Skills And Technologies 
+<h2>🚀 Technologies & Tools</h2>
 
 <p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="65" />
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" height="60" />
+    <img src="https://skillicons.dev/icons?i=c" height="65" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="60" />
+    <img src="https://skillicons.dev/icons?i=python" height="65" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="60" />
+    <img src="https://skillicons.dev/icons?i=html" height="65" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="65" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" height="60" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="60" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="65" />
   </a>
 </p>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
 
 ## 🔗 Connect With Me
 
