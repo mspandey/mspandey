@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Amisha Pandey</h1>
 
 <h3 align="center">Passionate Developer | Innovator | AI Enthusiast</h3>
 
