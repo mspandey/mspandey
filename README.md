@@ -111,7 +111,16 @@ Currently, I am exploring Generative AI and aiming to build impactful projects t
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 Key Interests
-
+- Generative AI  
+- AI/ML  
+- LLMs  
+- Problem Solving & Algorithms  
+- Scalable System Design  
+- Open Source Contribution  
+- Internet of Things (IoT) Systems  
+- Robotics & Automation  
+- Embedded Systems Development  
+- Sensor-based Smart Applications  
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
