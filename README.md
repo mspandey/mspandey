@@ -71,16 +71,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mspandey&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mspandey&theme=tokyonight" height="170"/>
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=mspandey&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mspandey&theme=tokyonight&hide_border=false)<br/>
 
 
 ## 🎮 Pacman Contribution Graph
