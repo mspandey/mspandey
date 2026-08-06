@@ -82,6 +82,16 @@
 
 ## 🎮 Pacman Contribution Graph
 
+<picture>
+  <img 
+    alt="pacman contribution graph."
+    src="https://raw.githubusercontent.com/mspandey/mspandey/output/pacman-contribution-graph-dark.svg"
+  />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
