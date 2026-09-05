@@ -78,8 +78,39 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mspandey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mspandey&theme=react-dark&hide_border=true)
 
+<!-- 🟢 GREEN ANIMATED
+![](./profile-3d-contrib/profile-green-animate.svg)
+-->
+<!-- 🟢 GREEN STATIC
+![](./profile-3d-contrib/profile-green.svg)
+-->
+<!-- 🍂 SEASON ANIMATED — NORTHERN HEMISPHERE
+![](./profile-3d-contrib/profile-season-animate.svg)
+-->
+<!-- 🍂 SEASON STATIC — NORTHERN HEMISPHERE-->
+<!--![](./profile-3d-contrib/profile-season.svg)-->
+
+<!-- 🌎 SOUTHERN SEASON ANIMATED
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+-->
+<!-- 🌎 SOUTHERN SEASON STATIC
+![](./profile-3d-contrib/profile-south-season.svg)
+-->
+<!-- 🌙 NIGHT VIEW
+![](./profile-3d-contrib/profile-night-view.svg)
+-->
+<!-- 🌙 NIGHT GREEN
+![](./profile-3d-contrib/profile-night-green.svg)
+-->
+
+<!-- 🌈 NIGHT RAINBOw
+-->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
+<!-- 🧱 GIT BLOCK
+![](./profile-3d-contrib/profile-gitblock.svg)
+-->
 ## 🎮 Pacman Contribution Graph
 
 <picture>
