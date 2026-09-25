@@ -79,7 +79,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mspandey&theme=react-dark&hide_border=true)
 
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 🎮 Pacman Contribution Graph
 
