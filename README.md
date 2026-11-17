@@ -84,7 +84,7 @@ Take a look at my projects, experience, achievements, certifications, and the te
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mspandey&theme=react-dark&hide_border=true)
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 ## 🎮 Pacman Contribution Graph
 
